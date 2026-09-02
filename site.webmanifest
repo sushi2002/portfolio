@@ -1,0 +1,16 @@
+{
+  "name": "Suyash Barwal Portfolio",
+  "short_name": "Suyash Barwal",
+  "description": "Portfolio of Suyash Barwal, an Electronics and Communication Engineering student.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#24618a",
+  "theme_color": "#12324a",
+  "icons": [
+    {
+      "src": "./assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
